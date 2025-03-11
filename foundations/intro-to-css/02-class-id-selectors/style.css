@@ -1,7 +1,9 @@
 .odd-numbers {
     background-color: rgb(255, 171, 196);
-    font-family: 'Verdana' 'DejaVu Sans' sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+/* seperate fonts with comma */
 
 #number-two {
     color: #0000ff;
